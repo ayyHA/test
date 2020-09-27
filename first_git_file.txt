@@ -1,0 +1,2 @@
+This is my first time to use git_repository
+		written by ayy, 2020-09-27
